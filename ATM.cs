@@ -105,7 +105,6 @@ class FirstProject
 
                 default:
                     Console.Write("Please select the no between 1 and 4: \n");
-                    Console.Write("Please select the no between 1 and 4: \n");
                     break;
             
             }
